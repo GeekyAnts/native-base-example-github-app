@@ -1,1 +1,3 @@
-# GitApp-Tutorial
+# [GitApp-Tutorial](http://docs.nativebase.io/docs/GitAppExample.html)
+GitApp is a sample app made with [React Native](https://github.com/facebook/react-native), [Redux](https://github.com/reactjs/react-redux), and [React Native Router Flux](https://github.com/aksonov/react-native-router-flux) and [NativeBase](https://nativebase.io/) as the main Libraries at work here.<br />
+This is a simple step-by-step tutorial to get familiar with basic concepts of [Redux](https://github.com/reactjs/react-redux)(used for state management), and [React Native Router Flux](https://github.com/aksonov/react-native-router-flux)(used for navigation). This simple App should get you familiar with these Libraries and their use case.
